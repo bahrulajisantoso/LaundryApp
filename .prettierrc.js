@@ -1,3 +1,5 @@
+const prettier = require('prettier');
+
 module.exports = {
   arrowParens: 'avoid',
   bracketSameLine: true,
